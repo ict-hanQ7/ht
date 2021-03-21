@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-### Heterogeneous thread CPU
- 
-=======
-### Het1erogeneous threadCPU
+Heterogeneous thread CPU
 
->>>>>>> featurel
